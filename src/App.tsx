@@ -1,8 +1,11 @@
-import { useState} from 'react'
+import "./styles/main.css";
+
 
 function App() {
   return (
-    <p>Olá Mundo</p>
+    //tailwind funcionando 
+    <div className="w-20 h-20 bg-black ">    
+    </div>
   )   
 }
 
