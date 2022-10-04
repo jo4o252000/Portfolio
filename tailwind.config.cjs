@@ -4,6 +4,9 @@ module.exports = {
     './src/**/*.tsx',
     './index.html'],
   theme: {
+    fontFamily:{
+      sans:['IBM Plex Serif','sans-serif']
+    },
     extend: {},
   },
   plugins: [],
